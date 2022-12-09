@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
           - name: mynginx
-            image: snehasirsilla20/myjavaimg:1
+            image: snehasirsilla20/mycimg9dec22:1
             ports:
               - containerPort: 8080         
